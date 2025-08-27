@@ -1,0 +1,13 @@
+MACD (Moving Average Convergence Divergence) Strategy - done 
+RSI (Relative Strength Index) Strategy - done
+Bollinger Bands Strategy - done  
+Moving Average Crossover Strategy - done 
+Stochastic Oscillator Strategy - done 
+Trend Following Strategy- done
+Breakout Trading Strategy - done 
+Mean Reversion Strategy - done 
+
+do streamlit run analysis.py 
+
+run backtest with shorting better
+

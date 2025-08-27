@@ -1,0 +1,2 @@
+File,Total trades,Winning trades,Losing trades,Win rate,Average return per trade,Median return per trade,Max return,Min return,Average trade duration,Median trade duration,Max trade duration,Min trade duration,Total cumulative return,Maximum drawdown,Profit factor,Expectancy,Return volatility
+ADANIENT_ohlcv.csv,2,1,1,0.5,-2.1410112442564437,-2.1410112442564437,0.007794987648744324,-4.289817476161632,78.0,78.0,155,1,-4.315461562754935,398305.85029027227,0.0018170907485133812,0.0,3.038870916072143
